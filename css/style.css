@@ -516,13 +516,13 @@ button {
 .creative h1 {
     font-size: 80px;
     line-height: 90px;
-    color: #101010;
+    color: orange;
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
 }
 
 .creative p {
-    color: #101010;
+    color: orange;
     padding: 30px 0 55px 0;
     line-height: 30px;
 }
